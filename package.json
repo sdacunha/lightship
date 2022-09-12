@@ -53,6 +53,10 @@
   "keywords": [
     "kubernetes"
   ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://npm.pkg.github.com"
+  },
   "license": "BSD-3-Clause",
   "main": "./dist/src/index.js",
   "types": "./dist/src/index.d.ts",
